@@ -1,7 +1,9 @@
 # LHEME CAFÉ
 
 
-![alt text](https://github.com/lhemecafe/lhemecafe.github.io/blob/master/LHEME_CAFE_LOGO_COM_INSTAGRAM.png "LHEME CAFÉ")
+<p align="center"><img src="https://github.com/lhemecafe/lhemecafe.github.io/blob/master/LHEME_CAFE_LOGO_COM_INSTAGRAM.png" width="100"/> </p>
+
+
 
 
 
